@@ -36,15 +36,15 @@ I'm a Full Stack Web Developer skilled in MERN stack. My passion for software li
 
 
 <p>
-   <a href="https://twitter.com/shubham007x">
+   <a href="https://twitter.com/>
     <img align="left" src="https://raw.githubusercontent.com/shivam-singh-au17/shivam-singh-au17/5604a09025392c73fc35b8589807b82c3b585d17/Images/twitter.svg" width="32px"  />
   </a>
-  <a href="mailto:bhardwajy621@gmail.com">
+  <a href="mailto:shubham.agdari@gmail.com">
     <img align="left" src="https://github.com/shivam-singh-au17/shivam-singh-au17/blob/main/Images/mail.png?raw=true" width="32px"  />
   </a>
  
   
-  <a href="https://www.linkedin.com/in/yogesh-bhardwaj-60482721b/">
+  <a href="https://www.linkedin.com/in/shubham-agdari-30500617b/">
     <img align="left" src="https://raw.githubusercontent.com/shivam-singh-au17/shivam-singh-au17/5604a09025392c73fc35b8589807b82c3b585d17/Images/linked-in-alt.svg" width="28px" />
   </a>
 <img src ="https://github.com/shivam-singh-au17/shivam-singh-au17/blob/main/Images/imhd.gif?raw=true" align="right" width="260" height="260" />
@@ -75,7 +75,7 @@ I'm a Full Stack Web Developer skilled in MERN stack. My passion for software li
 
 <h4 align="center"><img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;Visitor's count :eyes:</h4>
 
-<p align="center"><img src="https://profile-counter.glitch.me/{shivam-singh-au17}/count.svg" alt="shivam-singh-au17 :: Visitor's Count" /></p>
+<p align="center"><img src="https://profile-counter.glitch.me/{shubham007x}/count.svg" alt="shubham007x :: Visitor's Count" /></p>
 
 <hr>
 
