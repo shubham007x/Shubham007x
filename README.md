@@ -100,7 +100,7 @@ I'm a Full Stack Web Developer skilled in MERN stack. My passion for software li
 <hr clear="both">
  <br/>
 <p align="center">
-<a href="https://github.com/shubham007x"><span>
+<a href="https://github.com/shubham007x">https://shubham007x.github.io/<span>
 <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shubham007x&theme=dracula" />
 </span></a> </p>
 
