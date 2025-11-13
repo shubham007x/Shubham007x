@@ -1,116 +1,112 @@
-### Hi there 👋
+<!-- SHUBHAM AGDARI | GITHUB PROFILE README -->
 
-<!--
-**shubham007x/Shubham007x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img width="100%" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake eating my contributions" />
 
-Here are some ideas to get you started:
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=800&color=00FFB9&center=true&vCenter=true&width=435&lines=Hey+there!+👋;I'm+Shubham+Agdari;Full+Stack+Developer+%F0%9F%92%BB;Welcome+to+my+digital+space!" alt="Typing SVG" />
+</h1>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<a href="#"><img width="100%" height="auto" src="https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif" height="175px"/></a>
-<h1 align="left" >Hey there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Shubham Agdari </h1>
-
-<h4><samp><strong> You have finally discovered my Github profile. Please feel free  <br>  to clone/fork projects, raise issues and submit PRs if you think something could be better.</strong></samp></h4> 
-<h3><i>Happy Coding!</i> 😊</h3>
-<hr>
-
-
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp; 
-About me ....
-I'm a Full Stack Web Developer skilled in MERN stack. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces.I focus on writing clean, elegant and efficient code. Highly skilled in collaboration, decision-making, and Data Structures & Algorithms..
-
-
- <img src="https://media.giphy.com/media/gH3LO09IOiZIqePwv9/giphy.gif" width="50" /> <b><i align="center">Thought : "Life is full of choices…choose wisely!”</i></b> <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" />
-
- <hr>
-
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;Connect with me .... 
-<img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="70px">
-
-
-<p>
-   <a href="https://twitter.com/>
-    <img align="left" src="https://raw.githubusercontent.com/shivam-singh-au17/shivam-singh-au17/5604a09025392c73fc35b8589807b82c3b585d17/Images/twitter.svg" width="32px"  />
+<p align="center">
+  <a href="https://shubham007x.github.io" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Now-00FFB9?style=for-the-badge&logo=firefox&logoColor=black" />
   </a>
   <a href="mailto:shubham.agdari@gmail.com">
-    <img align="left" src="https://github.com/shivam-singh-au17/shivam-singh-au17/blob/main/Images/mail.png?raw=true" width="32px"  />
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-0078D4?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
- 
-  
   <a href="https://www.linkedin.com/in/shubham-agdari-30500617b/">
-    <img align="left" src="https://raw.githubusercontent.com/shivam-singh-au17/shivam-singh-au17/5604a09025392c73fc35b8589807b82c3b585d17/Images/linked-in-alt.svg" width="28px" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-<img src ="https://github.com/shivam-singh-au17/shivam-singh-au17/blob/main/Images/imhd.gif?raw=true" align="right" width="260" height="260" />
-
-<br>
-<br>
-<hr>
- <h4><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;My working tools..</h4>
-<p>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3"/>
-<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap"/>
-<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="tailwind"/>
-<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="nodejs" />
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="expressjs"/>
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb"/>
-<img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm"/>
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" alt="postman"/>
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github"/>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="reactjs" />
-<img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="redux" />
-
-<img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" alt="styled-components"/>
 </p>
-<hr>
 
+---
 
-<h4 align="center"><img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;Visitor's count :eyes:</h4>
+### ⚡ About Me  
 
-<p align="center"><img src="https://profile-counter.glitch.me/{shubham007x}/count.svg" alt="shubham007x :: Visitor's Count" /></p>
+🚀 Passionate **Full Stack Developer (MERN)** crafting interactive and scalable applications.  
+🧠 Obsessed with performance, clean architecture, and seamless user experience.  
+🎯 I love solving complex problems and turning ideas into powerful digital products.  
+💬 Currently exploring **AI-powered Dashboards** & **System Design** concepts.  
+🌎 Based in Pune, India.  
 
-<hr>
+> “The best code is like water — simple, clear, and flows naturally.”  
 
- <img align="right" width=250px height=250px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
+---
 
+### 🧩 Featured Projects  
+
+<div align="center">
+
+| 💡 Project | 🚀 Description | 🔗 Link |
+|-------------|----------------|---------|
+| 🧠 **QuickShow AI Dashboard** | AI-driven dashboard for visual analytics and insights | [View Repo](https://github.com/shubham007x/quickshow-ai-dashboard) |
+| 🚗 **Car Dashboard AI** | Real-time vehicle monitoring system with smart metrics | [View Repo](https://github.com/shubham007x/car-ai-dashboard) |
+| 🎮 **Battleship Game (React)** | Strategy + luck game with animations and sound effects | [View Repo](https://github.com/shubham007x/Battleship-Game) |
+| 🎥 **Video Management App (MERN + Docker)** | Google Drive video management with filters & pagination | [View Repo](https://github.com/shubham007x/video-management-app) |
+
+</div>
+
+---
+
+### 🛠️ Tech Stack  
 
 <p align="center">
-<img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>🐱My Github stats:</b></i> 
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,tailwind,nodejs,express,mongodb,git,github,postman,docker" />
 </p>
 
-<p align="center" >
-<img src="http://github-readme-streak-stats.herokuapp.com?user=monumishra326&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&fire=DD2727"  />
-</p>
- 
-<p>
-<a href="https://github.com/shubham007x"><span>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shubham007x&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi"/>
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=shubham007x&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="400px"/>
-</span></a> </p>
-
-<br/><br/><br/><br/><br/><br/><br/><br/><br/>
-<hr clear="both">
- <br/>
 <p align="center">
-<a href="https://github.com/shubham007x"><span>
-<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shubham007x&theme=dracula" />
-</span></a> </p>
+  <img src="https://img.shields.io/badge/Code%20Quality-Clean%20%26%20Scalable-00FFB9?style=flat-square" />
+  <img src="https://img.shields.io/badge/Focus-UI%20%2B%20Performance-blueviolet?style=flat-square" />
+  <img src="https://img.shields.io/badge/Love-Open%20Source-orange?style=flat-square" />
+</p>
 
- <br/>
- 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=shubham007x&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true) 
+---
 
+### 📊 GitHub Analytics  
 
-<hr clear="both">
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b></em> <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50" />
-  
-![](https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/bottom_header.svg)
-https://shubham007x.github.io/
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=shubham007x&show_icons=true&theme=radical&hide_border=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=shubham007x&theme=radical&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shubham007x&theme=tokyonight" />
+</p>
+
+---
+
+### 🌐 Activity Graph  
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shubham007x&theme=react-dark&hide_border=true&area=true" width="100%"/>
+</p>
+
+---
+
+### 🧠 Currently Learning  
+
+- Advanced **System Design**
+- **Performance Optimization** in React
+- **Docker** & Cloud Deployment
+- **MongoDB Aggregations & Indexing**
+
+---
+
+### 🤝 Connect & Collaborate  
+
+<p align="center">
+  <img src="https://media.giphy.com/media/j5hLz9cL9OeZ0M7pN1/giphy.gif" width="200"/>
+</p>
+
+<p align="center">
+  <b>Got an idea or want to collaborate?</b> Let’s build something amazing together 💡  
+  <br/>
+  👉 Reach me at: <a href="mailto:shubham.agdari@gmail.com">shubham.agdari@gmail.com</a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FFB9&center=true&vCenter=true&width=435&lines=Thanks+for+stopping+by!;Let's+build+the+future+together+🚀" alt="Thank you animation" />
+</p>
+
+<img width="100%" src="https://raw.githubusercontent.com/ashutosh00710/github-readme-activity-graph/master/images/footer.svg" />
