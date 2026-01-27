@@ -31,22 +31,7 @@
 > “The best code is like water — simple, clear, and flows naturally.”  
 
 ---
-
-### 🧩 Featured Projects  
-
-<div align="center">
-
-| 💡 Project | 🚀 Description | 🔗 Link |
-|-------------|----------------|---------|
-| 🧠 **QuickShow AI Dashboard** | AI-driven dashboard for visual analytics and insights | [View Repo](https://github.com/shubham007x/quickshow-ai-dashboard) |
-| 🚗 **Car Dashboard AI** | Real-time vehicle monitoring system with smart metrics | [View Repo](https://github.com/shubham007x/car-ai-dashboard) |
-| 🎮 **Battleship Game (React)** | Strategy + luck game with animations and sound effects | [View Repo](https://github.com/shubham007x/Battleship-Game) |
-| 🎥 **Video Management App (MERN + Docker)** | Google Drive video management with filters & pagination | [View Repo](https://github.com/shubham007x/video-management-app) |
-
-</div>
-
 ---
-
 ### 🛠️ Tech Stack  
 
 <p align="center">
