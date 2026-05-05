@@ -69,11 +69,6 @@
 ---
 
 ### 🤝 Connect & Collaborate  
-
-<p align="center">
-  <img src="https://media.giphy.com/media/j5hLz9cL9OeZ0M7pN1/giphy.gif" width="200"/>
-</p>
-
 <p align="center">
   <b>Got an idea or want to collaborate?</b> Let’s build something amazing together 💡  
   <br/>
